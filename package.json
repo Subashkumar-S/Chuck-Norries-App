@@ -2,7 +2,7 @@
   "name": "chuck-norries",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Subashkumar-S/Chuck-Norries-App",
+  "homepage": "https://Subashkumar-S.github.io/Chuck-Norries-App",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
