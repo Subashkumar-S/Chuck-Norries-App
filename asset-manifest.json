@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Chuck-Norries-App/static/css/main.b0b817a3.css",
+    "main.js": "/Chuck-Norries-App/static/js/main.d54dcc01.js",
+    "index.html": "/Chuck-Norries-App/index.html",
+    "main.b0b817a3.css.map": "/Chuck-Norries-App/static/css/main.b0b817a3.css.map",
+    "main.d54dcc01.js.map": "/Chuck-Norries-App/static/js/main.d54dcc01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0b817a3.css",
+    "static/js/main.d54dcc01.js"
+  ]
+}
